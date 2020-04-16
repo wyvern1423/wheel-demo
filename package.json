@@ -1,0 +1,23 @@
+{
+  "name": "wheel",
+  "version": "0.0.1",
+  "description": "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D这是一个UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvern1423/wheel-demo.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "xinxin323",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvern1423/wheel-demo/issues"
+  },
+  "homepage": "https://github.com/wyvern1423/wheel-demo#readme"
+}
